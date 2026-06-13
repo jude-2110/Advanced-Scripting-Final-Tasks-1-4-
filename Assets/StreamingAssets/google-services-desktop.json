@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169364472207",
+    "project_id": "advanced-scripting-final",
+    "storage_bucket": "advanced-scripting-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169364472207:android:cc530ea22b18d944580bfa",
+        "android_client_info": {
+          "package_name": "com.Jude.AdvancedScriptingGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBy3S0SbRq1d_obTbT9mP_OCYGAnhnDxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
